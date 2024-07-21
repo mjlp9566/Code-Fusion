@@ -1,0 +1,17 @@
+#subbut:hover{
+background-color: green;
+}
+#runbut:hover{
+    background-color: red;
+    }
+*{
+    word-wrap: break-word;
+}
+p{
+    color:#95ef1d;
+    
+}
+ul{
+    color:#95ef1d;
+    
+}

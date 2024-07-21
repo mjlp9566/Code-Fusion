@@ -1,0 +1,19 @@
+
+
+.menubar-root {
+    font-weight: bold;
+    padding: 0 1rem;
+    font-size:30px;
+    width: 100%;
+    
+  }
+  .p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-link .p-menuitem-text {
+    color:#95ef1d;
+  }
+  .p-menubar{
+  padding: 0.5rem;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 84px;
+
+  }
